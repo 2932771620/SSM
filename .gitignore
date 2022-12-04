@@ -1,0 +1,23 @@
+# 项目排除路径
+/jdbc-project/target/
+/mybatis_cache/target/
+/mybatis_dynamisSQL/target/
+/mybatis_hellworld/target/
+/mybatis_mbg/target/
+/mybatis_parameter/target/
+/mybatis_resultMap/target/
+/out/
+/spring-aop/target/
+/Spring-ioc-annotation/target/
+/spring-proxy/target/
+/spring-transatction/target/
+/spring_helloword/target/
+/spring_ioc_xml/target/
+/spring_listener/target/
+/spring_mvc_ajax/target/
+/spring_mvc_annotation/target/
+/spring_mvc_demo/target/
+/spring_mvc_extension/target/
+/spring_mvc_rest/target/
+/springMVC/target/
+/SSMProject/target/
